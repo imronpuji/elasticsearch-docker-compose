@@ -1,4 +1,4 @@
-# elasticsearch docker compose
+# ELK stack
 
 - git clone this project
 - cd elasticsearch-docker-compose
