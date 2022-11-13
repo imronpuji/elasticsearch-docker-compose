@@ -5,8 +5,8 @@
 - run docker-compose up 
 
  # configuration
- - change your password for elastic search in kibana.yml
- - change your local ip address development
+ - change your password for elastic kibana in kibana.yml
+ - change your password for elastic search in docker-compose.yml
  
  # required
  - minimal you have a RAM about 4 gb
