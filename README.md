@@ -6,6 +6,7 @@
 
  # configuration
  - change your password for elastic kibana in kibana.yml
+ - change your password for logstash in logstash
  - change your password for elastic search in docker-compose.yml
  
  # required
