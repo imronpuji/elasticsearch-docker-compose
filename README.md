@@ -1,7 +1,7 @@
 # ELK stack
 
 - git clone this project
-- cd elasticsearch-docker-compose
+- cd elkstack-docker-compose
 - run docker-compose up 
 
  # configuration
